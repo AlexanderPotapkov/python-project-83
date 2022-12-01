@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "python-project-83"
+name = "hexlet-code"
 version = "0.1.0"
 description = ""
-authors = ["alexander_potapkov <xanben@mail.ru>"]
+authors = ["aleksander_potapkov <potapkov.a.p@gmail.com>"]
 readme = "README.md"
-packages = [{include = "python_project_83"}]
+packages = [{include = "page_analyzer"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
