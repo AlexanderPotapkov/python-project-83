@@ -1,8 +1,10 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Flask app for page analysis"
+classifiers = ["Programming language :: Python :: 3.8"]
 authors = ["aleksander_potapkov <potapkov.a.p@gmail.com>"]
+repository = "https://github.com/AlexanderPotapkov/python-project-83"
 readme = "README.md"
 packages = [{include = "page_analyzer"}]
 
